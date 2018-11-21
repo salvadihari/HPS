@@ -1,6 +1,15 @@
 
+<<<<<<< HEAD
 hi there...! 
 im hariprasad salvdi
 im learning git and github 
+=======
+
+
+hi there,! 
+im hari prasad salvadi 
+im learing git and github 
+
+>>>>>>> master
 
 
